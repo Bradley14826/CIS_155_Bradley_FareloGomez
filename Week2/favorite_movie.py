@@ -1,0 +1,6 @@
+print("Favorite Movie: Spider-Man: No Way Home")
+print("Main Character:")
+print("Peter Parker")
+print("MJ")
+print("Ned Leeds")
+print("Doctor Strange")

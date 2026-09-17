@@ -1,6 +1,6 @@
 count = 0
 total_grades = int(input("How many grades do you want to enter? "))
-while count < total_grades:
+while counter < total_grades:
     grade = int(input("Enter a grade: "))
     print("Grade entered:", grade)
     counter = counter + 1
